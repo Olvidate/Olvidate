@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benjamín Ortiz</h1>
-<h3 align="center">Student of Software Engineer at UTFSM</h3>
+<h3 align="center">Student at UTFSM</h3>
 
 - 🔭 I’m currently learning **Back-end Development**
 - 🧐 Interested on **DevOps** and **Software processes**
